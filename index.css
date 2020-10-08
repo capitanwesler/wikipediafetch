@@ -1,0 +1,35 @@
+/* This is the main CSS of the page */
+
+body {
+    margin: 50px;
+}
+
+#header {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: teal;
+    width: 700px;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+
+
+#wikipedia-search-container {
+    width: 400px;
+    text-align: center;
+    margin: 100px auto;
+    font-size: 20px;
+}
+
+#wikipedia-link {
+    width: 250px;
+    padding: 5px;
+}
+
+#button-link {
+    padding: 5px;
+    width: 90px;
+}
